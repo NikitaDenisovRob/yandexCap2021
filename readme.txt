@@ -11,3 +11,4 @@ Note (I would say WARNING): A null byte (00000000) denotes the end of the messag
 
 They gave a solution, but given soulution taked 12ms and 1.11mb in final test
 I wrote my own algorithm and it taked 6ms and 628.00kb in final test
+So mb my code looks a little bit ridiculous,but  i think it's okay, i've been learning swift only for 1 week 
